@@ -2,7 +2,9 @@
 
 ## Sending out SMS notes when you receive a new Voicemail
 
-So you want to acknowledge receiving a voicemail with a courteous message that you will listen to the voicemail and respond accordingly when you are able. You then want to notify yourself that a new voicemail has arrived for you. Here are the basic steps:
+So you want to acknowledge receiving a voicemail with a courteous message that you will listen to the voicemail and respond accordingly when you are able. You then want to notify yourself that a new voicemail has arrived for you.
+
+Here are the basic steps:
 
 * When a new voicemail is received, trigger an SMS response
 * Craft a friendly message using Automator’s data elements
